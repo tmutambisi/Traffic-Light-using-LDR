@@ -19,3 +19,4 @@ This is a light-dependent resistor (LDR) control system designed for managing LE
 ## Installation
 1. Clone the repository to your local machine:
    ```
+
